@@ -1,36 +1,12 @@
 # clojure-noob
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+Examples and exercise following Clojure for the Brave and True
 
 ## Usage
 
-FIXME: explanation
+In REPL:
 
-    $ java -jar clojure-noob-0.1.0-standalone.jar [args]
+(use 'clojure-noob.core :reload)
+(-main)
 
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Hit some hobbits and beasties and other fun!
