@@ -1,6 +1,6 @@
-(defproject clojure-noob "0.1.0-SNAPSHOT"
+(defproject beast-hitting "0.1.0-SNAPSHOT"
 
-  :description "My Clojure Noob Stuff"
+  :description "Module for hitting beasts"
 
   :source-paths ["src/main/clojure"]
 
@@ -11,7 +11,7 @@
                  [org.clojure/clojure "1.9.0"]
                  ]
 
-  :main ^:skip-aot clojure-noob.core
+  :main ^:skip-aot beast-hitting.core
 
   :target-path "target/%s"
 

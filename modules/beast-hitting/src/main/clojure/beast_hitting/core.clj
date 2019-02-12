@@ -1,4 +1,4 @@
-(ns clojure-noob.core
+(ns beast-hitting.core
   (:gen-class))
 
 (def hobbit-body-parts [{:name "head" :size 3}
